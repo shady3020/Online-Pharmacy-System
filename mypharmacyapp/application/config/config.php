@@ -22,7 +22,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://mypharmacyapp.000webhostapp.com/mypharmacyapp/';
+$config['base_url'] = 'https://vercel.com/shadracks-projects-c8863cc4/online-pharmacy-system/8NfsihntMyrhVSd5xyHCb4Yhs4Mo';
 $config['theme_admin'] = "theme/admin";
 
  $config['currency'] = 'USD';
