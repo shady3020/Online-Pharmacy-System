@@ -1,0 +1,44 @@
+/* Light Green Theme Custom CSS */
+.skin-light-green .main-header .navbar {
+  background-color: #198908;
+}
+.skin-light-green .main-header .logo {
+  background-color: #198908;
+  color: #ffffff;
+  border-bottom: 0 solid transparent;
+}
+.skin-light-green .main-header .logo:hover {
+  background-color: #198908;
+}
+.skin-light-green .main-header .navbar .sidebar-toggle {
+  color: #ffffff;
+}
+.skin-light-green .main-header .navbar .sidebar-toggle:hover {
+  background-color: #008d4c;
+}
+.skin-light-green .main-sidebar {
+  background-color: #198908;
+}
+.skin-light-green .main-sidebar .sidebar .sidebar-menu .active a {
+  background-color: #008d4c;
+  border-left-color: #198908;
+}
+.skin-light-green .main-sidebar .sidebar .sidebar-menu a {
+  color: #ffffff;
+}
+.skin-light-green .main-sidebar .sidebar .sidebar-menu a:hover {
+  background-color: #008d4c;
+}
+.skin-light-green .content-wrapper,
+.skin-light-green .main-footer {
+  background-color: #f4f4f4;
+}
+.skin-light-green .main-footer {
+  border-top: 1px solid #d2d6de;
+}
+.skin-light-green .main-footer a {
+  color: #00a65a;
+}
+.skin-light-green .control-sidebar {
+  background-color: #00a65a;
+}

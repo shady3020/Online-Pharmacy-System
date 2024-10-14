@@ -1,0 +1,56 @@
+
+Invalid data received.
+
+Invalid data received.
+
+Invalid data received.
+
+Invalid data received.
+
+Invalid data received.
+
+Invalid data received.
+{
+  "Body": {
+    "stkCallback": {
+      "MerchantRequestID": "12345",
+      "CheckoutRequestID": "67890",
+      "ResultCode": 0,
+      "ResultDesc": "Success",
+      "CallbackMetadata": {
+        "Item": [
+          {"Name": "Amount", "Value": 10.0},
+          {"Name": "MpesaReceiptNumber", "Value": "OGATUBRO123"},
+          {"Name": "Balance", "Value": 0.0},
+          {"Name": "TransactionDate", "Value": "20240101"},
+          {"Name": "PhoneNumber", "Value": "254710683071"}
+        ]
+      }
+    }
+  }
+}
+
+{
+  "Body": {
+    "stkCallback": {
+      "MerchantRequestID": "12345",
+      "CheckoutRequestID": "67890",
+      "ResultCode": 0,
+      "ResultDesc": "Success",
+      "CallbackMetadata": {
+        "Item": [
+          {"Name": "Amount", "Value": 10.0},
+          {"Name": "MpesaReceiptNumber", "Value": "OGATUBRO123"},
+          {"Name": "Balance", "Value": 0.0},
+          {"Name": "TransactionDate", "Value": "20240101"},
+          {"Name": "PhoneNumber", "Value": "254710683071"}
+        ]
+      }
+    }
+  }
+}
+
+{"Body":{"stkCallback":{"MerchantRequestID":"f1e2-4b95-a71d-b30d3cdbb7a7469673","CheckoutRequestID":"ws_CO_20062024203230379757755347","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+Transaction failed: Request cancelled by user
+{"Body":{"stkCallback":{"MerchantRequestID":"7071-4170-a0e4-8345632bad441250880","CheckoutRequestID":"ws_CO_25062024120745318757755347","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
+Transaction failed: DS timeout user cannot be reached
